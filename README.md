@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Japar Sidik
 
 ## Santri and Tech
-- 🔭 I’m currently working on [Hijaiyah Search Engine](https://github.com/Jersk41/Tajwid-SE')
+- 🔭 I’m currently working on [Hijaiyah Search Engine](https://github.com/Jersk41/Tajwid-SE)
 - 🌱 I’m currently learning :iphone:`Android` and `Javascript`
 - 👯 I’m looking to collaborate With Other developer in Community
 - 🤔 I’m looking for help with Design UI/UX 
