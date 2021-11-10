@@ -1,4 +1,6 @@
 ### Hi there 👋 I am Japar Sidik
+Simple man who like to code and learn
+> Learn n Code Everyday
 
 ## More About Me
 - 🌱 I’m currently learning :iphone:`Web` and `Javascript`
