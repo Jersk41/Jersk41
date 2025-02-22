@@ -11,4 +11,4 @@
 
 ## Connect With Me
 [<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/Sidik84503300)
-[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://instagram.com/sidik_japar4)
+[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://instagram.com/japar_sidik4)
